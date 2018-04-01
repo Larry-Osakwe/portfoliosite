@@ -1,0 +1,15 @@
+{
+  "name": "portfoliosite",
+  "version": "1.0.0",
+  "description": "Website to host projects",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Larry Osakwe",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.8",
+    "express": "^4.16.3"
+  }
+}
